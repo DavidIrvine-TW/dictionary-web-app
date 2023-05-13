@@ -24,11 +24,11 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/DavidIrvine-TW/dictionary-web-app)
+- Live Site URL: [live site](https://davidirvine-tw.github.io/dictionary-web-app/)
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [David Irvine](https://github.com/DavidIrvine-TW)
+- Frontend Mentor - [David Irivne](https://www.frontendmentor.io/profile/davidirvine-tw)
